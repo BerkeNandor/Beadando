@@ -2,3 +2,16 @@ h1
 {
     text-align: center;
 }
+
+img
+{
+    border-style: solid;
+    height: 300px;
+    width: 20%;
+}
+
+body
+{
+    font-family: inherit;
+    background-color: aquamarine;
+}
