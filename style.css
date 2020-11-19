@@ -1,6 +1,8 @@
 h1
 {
     text-align: center;
+    background-color: white;
+    border: 1px solid black;
 }
 
 img
@@ -13,5 +15,20 @@ img
 body
 {
     font-family: inherit;
-    background-color: aquamarine;
+    background-color: lightgreen;
+    
+}
+
+table tr td{
+    border: 2px solid black;
+    padding: 2%;
+    background-color: white;
+}
+
+i{
+    font-size: larger;
+}
+
+b{
+    font-size: larger;
 }
